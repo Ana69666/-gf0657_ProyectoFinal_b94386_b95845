@@ -40,6 +40,8 @@ def cargar_datos_paises():
 
 # ----- Cargar datos -----
 st.title('Análisis del cambio de cobertura forestal entre el año 2000 y el 2020')
+# Estudiantes
+st.subheader('por Ana López (B94386) y Matthias Pelz (B95845)')
 
 # Mensajes de estado mientras se cargan los datos
 estado_carga_changeforest = st.text('Cargando datos de Changeforest...')
