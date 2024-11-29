@@ -208,7 +208,7 @@ if pais_seleccionado != 'Todos':
     # Obtener el Código ISO del país seleccionado
     codigo_iso = pais_seleccionado  # Usar la selección de país del 'selectbox'
     # Filtrar el GeoDataFrame para obtener la geometría del país
-    pais_geom = paises_merged[paises_merged['ADM0_ISO'] == codigo_iso]
+    pais_geom = paises_merged[paises_merged['País'] == pais_seleccionado]
     if not pais_geom.empty:
         # Obtener el centroide de la geometría del país
         centroid = pais_geom.geometry.centroid.iloc[0]
