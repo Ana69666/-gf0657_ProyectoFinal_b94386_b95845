@@ -30,4 +30,4 @@ Este archivo contiene la geometría y metadatos de los países a nivel global e 
 ## Resultado Final  
 
 En el siguiente enlace puede explorar la aplicación de consulta interactiva publicada en **Streamlit Cloud**:  
-[Enlace a la Aplicación](#) *(https://cambio-coberturaforestal-gf0657.streamlit.app/).*  
+[Streamlit Cloud](https://cambio-coberturaforestal-gf0657.streamlit.app/). 
