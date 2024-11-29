@@ -1,6 +1,6 @@
 # Universidad de Costa Rica - GF-0657 Programación en SIG2024 - Profesor Manuel Vargas  
 ## Estudiante: Ana María López Ulate y Matthias Pelz Seyfarth
-### Proyecto Final: Análisis del Cambio de Cobertura Forestal entre el Año 2000 y 2020**  
+### Proyecto Final: Análisis del Cambio de Cobertura Forestal entre el Año 2000 y 2020  
 
 ## Descripción del Proyecto  
 
